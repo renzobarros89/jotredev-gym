@@ -13,6 +13,6 @@ module.exports = {
       },
     },
   },
-  importante: true,
+  important: true,
   plugins: [],
 };
